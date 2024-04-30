@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "61991660168",
+    "project_id": "servili-2cp",
+    "storage_bucket": "servili-2cp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61991660168:android:822c064b31544ef3030d3d",
+        "android_client_info": {
+          "package_name": "com.example.onboading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61991660168-po3ce71grspgqf2i6q67os3d8hk0iel6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVw_g8XS5xFNDGRiHvhpTqcleJ0Jj4piY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61991660168-po3ce71grspgqf2i6q67os3d8hk0iel6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61991660168:android:ffc4a26efb2d6ca2030d3d",
+        "android_client_info": {
+          "package_name": "com.example.servili_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61991660168-po3ce71grspgqf2i6q67os3d8hk0iel6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVw_g8XS5xFNDGRiHvhpTqcleJ0Jj4piY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61991660168-po3ce71grspgqf2i6q67os3d8hk0iel6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
